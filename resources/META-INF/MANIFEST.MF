@@ -1,6 +1,6 @@
 MIDlet-Name: COTS
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: FIRST
-MIDlet-1: COTS, , edu.wpi.first.wpilibj.templates.COTS
+MIDlet-1: UltimateAscentRobot, , org.camsrobotics.frc2013.UltimateAscentRobot
 MicroEdition-Profile: IMP-1.0
 MicroEdition-Configuration: CLDC-1.1
